@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     "corsheaders",
     "treebeard",
     "channels",
+    "apps.catalog.apps.CatalogConfig",
 ]
 
 MIDDLEWARE = [
